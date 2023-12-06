@@ -36,9 +36,7 @@ Imports and Setups:
 
 Functions:
     initializer()
-        Detects what state is_fahren is in
-        and changes the switch mode button to reflect this and show the user
-
+        Detects what state is_fahren is in and changes the switch mode button to reflect this and show the user
         calls convert() to update the result and make the calculator more polished
 
     convert()
