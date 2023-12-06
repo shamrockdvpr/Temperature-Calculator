@@ -7,7 +7,7 @@ import tkinter as tk
 from random import randint
 
 # Reading .txt file that contains help.txt, this is converted into python strings for display
-manual = open('readme.md', 'r')
+manual = open('help.txt', 'r')
 manual_text = manual.read()
 manual.close()
 
